@@ -1,0 +1,77 @@
+I am a DevOps engineer with more than 7 years of experience designing, implementing and administering cloud-based solutions. I am driven to make myself and my team as effective as possible. My passion for keeping up to date with the latest technologies allows me to continuously deliver value to the businesses I am a part of.
+
+DevOps Engineer
+LearnCoach
+
+• Re-architected application infrastructure to improve fault tolerance and scalability.
+• Introduced Terraform to encourage infrastructure as code (IaC) practices.
+• Introduced Ansible to encourage configuration management practices.
+• Implemented a CI/CD system, resulting in hundreds of developer hours saved per month.
+• Built a comprehensive monitoring solution with Prometheus, Grafana and Loki.
+• Developed a suite of Molecule tests for Ansible.
+
+Development Operations Engineer
+International Volunteer HQ
+
+• Audited existing AWS architecture to enhance security, resilience and reduce cost by more than 30%.
+• Containerized core applications using Docker to improve developer effectiveness.
+• Implemented continuous integration/delivery (CI/CD) pipeline using Jenkins and reduced the test suite run time by 75%.
+• Set up incident alerting and on-call scheduling using PagerDuty.
+• Used Ansible to completely re-implemented deprecated configuration management tooling.
+
+Solutions Engineer
+Orion Health
+
+• Created, managed and monitored AWS environments.
+• Utilised Bamboo to develop a CI/CD pipeline.
+• Automated instance configuration using tools such as Puppet and Ansible.
+• Provided technical support for a range of applications and systems.
+• Reviewed project contributions to ensure delivery of high quality solutions.
+• On-boarded and trained new team members.
+
+Graduate Implementation Consultant
+Orion Health
+
+• Provided technical support for a range of applications and systems.
+• Implemented decision making algorithms to assist in the triaging of in-patients.
+
+# OTHER PROJECTS #
+
+# LearnCoach - DevOps Engineer
+
+• Implemented a comprehensive CI system using Drone, Terraform and Ansible
+  • Custom Docker images for starting EC2 instances and generating Slack notifications
+• Reduced time to set up a development environment by 95%
+• Introduced comprehensive system telemetry using Prometheus and Grafana
+• Provisioned an Ansible-based VPN to improve company-wide security.
+• Built a deployment tool for developers to release seamlessly to any environment.
+• Performed security audit of web applications using OWASP ZAP.
+• Built an automated HTTPS certificate renewal pipeline using Let's Encrypt, Ansible and GitHub Actions.
+• Created serverless application to monitor and remove redundant AWS resources.
+• Used Artillery to load test backend services.
+
+
+# IVHQ - DevOps Engineer
+
+• Designed and deployed a serverless solution to monitor website performance, accessibility, best-practices and SEO scores.
+• Performed several major infrastructure upgrades including PostgreSQL on RDS with minimal customer disruption.
+• Rapidly patched application and infrastructure vulnerabilities.
+• Introduced maintenance mode for core applications to improve customer experience during planned service outages.
+• Provisioned an Ansible-based VPN to improve company-wide security.
+
+# Orion Health - Solutions Engineer
+
+• Project: Unison (Consult & Coordinate)
+• Created, managed and monitored AWS environments with services such as EC2, Lambda, S3, RDS, VPC, Route 53, CloudWatch, CloudFormation, IAM and WAF & Shield.
+• Automated manual processes to increase efficiency through the use of Bash, Python and Ruby scripts.
+• Provided technical support for a range of applications and systems.
+
+# Orion Health - Graduate Implementation Consultant
+
+• Project: ACT Walk in Centre
+• Project: Oracle eGate Migration to Rhapsody
+
+# The Photon Factory - Summer Internship
+
+• Researched existing microfabrication and injection moulding techniques. • Developed prototypes suitable for use in the production of microfluidic devices.
+• Presented findings to interested parties.
